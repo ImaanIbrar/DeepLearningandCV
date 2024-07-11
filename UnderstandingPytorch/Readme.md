@@ -62,3 +62,7 @@ This notebook explores two ways to create and handle data:
 - Using Custom Dataset
 
 Images of dogs and cats are used to demonstrate the use of `ImageFolder`. The Landmark dataset, a subset of the Google Landmark Data v2, is used for further demonstration.
+
+### 4. Build Model 
+
+This notebook explores basic model creation and explores some features of `torch.nn` api.
