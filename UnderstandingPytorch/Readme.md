@@ -1,10 +1,10 @@
-# Introduction to PyTorch
+# Introduction to Basics of PyTorch
 
 This repository contains Jupyter notebooks that provide an introduction to the basics of PyTorch.
 
 ## Notebooks
 
-### 1. Understanding PyTorch
+### 1. Understanding Tensors
 
 #### Definition:
 Tensors are a specialized data structure that are very similar to arrays and matrices. In PyTorch, we use tensors to encode the inputs and outputs of a model, as well as the model's parameters.
