@@ -66,3 +66,7 @@ Images of dogs and cats are used to demonstrate the use of `ImageFolder`. The La
 ### 4. Build Model 
 
 This notebook explores basic model creation and explores some features of `torch.nn` api.
+### 4. Optimization  
+
+This notebook explores loss function and Optimizers and trains the FashionMNIST dataset on a neural network
+and explores its accuracy with different learning rates and optimizers.  
