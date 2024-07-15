@@ -9,8 +9,8 @@ This repository contains Jupyter notebooks that provide an introduction to the b
 #### Definition:
 Tensors are a specialized data structure that are very similar to arrays and matrices. In PyTorch, we use tensors to encode the inputs and outputs of a model, as well as the model's parameters.
 
-![Tensors](![image](https://github.com/ImaanIbrar/RadarLab/blob/main/UnderstandingPytorch/images/tensor.png)
-)
+![Tensors](https://github.com/ImaanIbrar/RadarLab/blob/main/UnderstandingPytorch/images/tensor.png)
+
 
 #### Initializing a Tensor:
 - **Directly from data:**
